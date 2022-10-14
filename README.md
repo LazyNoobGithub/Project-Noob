@@ -8,4 +8,4 @@ https://discord.gg/HGNr3jKfkH
 The WL and the script will be in the github, or below! btw, to any skids. THIS IS OBFUSTUCATED USING MOONOBFUSTUCATOR!!!
 
 WL Script: https://pastebin.com/LdqvLM8s
-Loader Script: 
+Loader Script: https://pastebin.com/1epKdS0N
