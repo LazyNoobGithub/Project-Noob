@@ -5,7 +5,7 @@ Project Noob is a roblox script based off of Project Ligma, but not a serverside
 https://discord.gg/HGNr3jKfkH
 
 # Scripts
-The WL and the script will be in the github, or below! btw, to any skids. THIS IS OBFUSTUCATED USING MOONOBFUSTUCATOR!!!
+The WL and the script will be in the github, or below! btw, to any skids. THIS IS OBFUSTUCATED!!
 
 WL Script: https://pastebin.com/LdqvLM8s
 
