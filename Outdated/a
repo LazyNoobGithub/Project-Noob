@@ -1,1 +1,21 @@
+local bypassinianmodule = {}
 
+local BypassinianRoles = {
+	[3718563420] = "OWNA_BPSNAN",
+	[1093225003] = "OWNA_BPSNAN",
+	[871739608] = "OWNA_BPSNAN",
+	[3807848525] = "MEM_BPSNAN",
+	[3756264809] = "MEM_BPSNAN",
+	[1889593313] = "MEM_BPSNAN",
+	[3763780537] = "BHAOR_BPSNAN"
+}
+
+function bypassinianmodule:GetRoleFromUserId(sentuserid)
+	for i,v in pairs(BypassinianRoles) do
+		if i == sentuserid then
+			return v
+		end
+	end
+end
+
+return bypassinianmodule
